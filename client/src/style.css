@@ -1,4 +1,4 @@
-.App{
+ .App{
     height: 100v;
     padding: 0px 100px;
     display: flex;
@@ -63,4 +63,4 @@ input{
     color: white;
     font-weight: bold;
     cursor: pointer;
-}
+} 
